@@ -1,0 +1,83 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - TreeTag
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Sky
+  - Clouds1
+  - Mountains
+  - Clouds2
+  - Trees1
+  - Ground
+  - Trees2
+  - Characters1
+  - Characters2
+  - Effects
+  - Trees3
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Sky
+    uniqueID: 717796909
+    locked: 0
+  - name: backgroundClouds
+    uniqueID: 2319366257
+    locked: 0
+  - name: Mountains1
+    uniqueID: 3106842781
+    locked: 0
+  - name: Clouds
+    uniqueID: 1224820503
+    locked: 0
+  - name: Mountains
+    uniqueID: 3274539289
+    locked: 0
+  - name: Trees1
+    uniqueID: 750296601
+    locked: 0
+  - name: Ground
+    uniqueID: 3483352557
+    locked: 0
+  - name: Trees2
+    uniqueID: 2659818975
+    locked: 0
+  - name: Player
+    uniqueID: 1844708489
+    locked: 0
+  - name: Characters1
+    uniqueID: 1481262359
+    locked: 0
+  - name: Characters2
+    uniqueID: 2413176339
+    locked: 0
+  - name: Effects
+    uniqueID: 462331101
+    locked: 0
+  - name: Trees3
+    uniqueID: 1395943403
+    locked: 0
